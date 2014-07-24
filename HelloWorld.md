@@ -1,6 +1,6 @@
 ## This is a markup line
 
-# A lists of the commends I learn
+### A lists of the commends I learn
 * pwd 
 * clear
 * mv
